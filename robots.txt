@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jnsaraiva.github.io/resources-kp0ayb/sitemap.xml
